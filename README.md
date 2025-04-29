@@ -42,8 +42,11 @@ pip install -r requirements.txt
 # 3. Dar permisos de ejecución al CLI
 chmod +x __main__.py
 
+```
 ---
 
 ## Uso 
 
+```bash
 ./__main__.py
+```
